@@ -1,2 +1,2 @@
 #!/bin/bash
-nmap -PA -sn $1
+nmap -PE -sn $1
